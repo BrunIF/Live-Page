@@ -1,0 +1,9 @@
+#page-wrapper {
+	margin: 0 auto;
+	width: 960px;
+}
+
+#menu li {
+	list-style: none;
+	display: inline;
+}
